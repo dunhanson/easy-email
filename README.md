@@ -18,7 +18,7 @@ public class Start {
                 .build();
         Authenticator authenticator = Authenticator.builder()
                 .userName("dunhanson@163.com")
-                .password("MTWPSSWKOLSFAPQZ")
+                .password("******")
                 .build();
         Content content = Content.builder()
                 .from("dunhanson@163.com")
@@ -39,7 +39,7 @@ public class Start {
                 .build();
         Authenticator authenticator = Authenticator.builder()
                 .userName("dunhanson@163.com")
-                .password("MTWPSSWKOLSFAPQZ")
+                .password("******")
                 .build();
         Content content = Content.builder()
                 .from("dunhanson@163.com")
@@ -65,7 +65,7 @@ public class Start {
                 .build();
         Authenticator authenticator = Authenticator.builder()
                 .userName("dunhanson@163.com")
-                .password("MTWPSSWKOLSFAPQZ")
+                .password("******")
                 .build();
         Content content = Content.builder()
                 .from("dunhanson@163.com")
